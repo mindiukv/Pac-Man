@@ -1,0 +1,11 @@
+#Thu Jun 15 21:14:04 EEST 2023
+buy1kPurchased=false
+buy100Purchased=true
+buy350Active=false
+buy500Purchased=true
+buy500Active=false
+buy700Purchased=false
+buy1kActive=false
+buy350Purchased=true
+buy700Active=false
+buy100Active=true
